@@ -1,7 +1,7 @@
 Spring Boot Web Maven - [![Build Status](https://travis-ci.org/adaofeliz/spring-boot-web-mvn.png)](https://travis-ci.org/adaofeliz/spring-boot-web-mvn)
 ===================
 
-Spring Boot Sample Web Application using Maven
+Spring Boot Sample Web Application using Maven 1
 
 Installation
 --------------
