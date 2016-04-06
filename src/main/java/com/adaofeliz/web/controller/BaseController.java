@@ -14,6 +14,7 @@ public class BaseController {
     @ResponseBody
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String helloWorld() {
+		System.out.println("******************************Update");
         return "Hello World: Spring-boot Sample Web Application using Maven";
     }
 }
