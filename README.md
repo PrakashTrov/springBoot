@@ -4,7 +4,7 @@ Spring Boot Web Maven - [![Build Status](https://travis-ci.org/adaofeliz/spring-
 Spring Boot Sample Web Application using Maven
 
 Installation
---------------
+------------
 * Clone this project
 ```sh
 git clone https://github.com/adaofeliz/spring-boot-web-mvn.git spring-boot-web-mvn
