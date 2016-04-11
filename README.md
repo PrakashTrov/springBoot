@@ -14,6 +14,7 @@ git clone https://github.com/adaofeliz/spring-boot-web-mvn.git spring-boot-web-m
 ```sh
 cd spring-boot-web-mvn
 mvn clean install
+
 java -jar target/spring-boot-web-mvn.war
 ```
 
